@@ -14,7 +14,7 @@ except LookupError:
     sia = SentimentIntensityAnalyzer()
 
 # Step 1: Set up API key and user input
-api_key = "844aaabd70544f04ba59b34b2ac4ceb1"  # Replace with your free NewsAPI key from newsapi.org
+api_key = "INSERT_YOUR_API_KEY"  # Replace with your free NewsAPI key from newsapi.org
 symbol = input("Enter the stock or crypto symbol (e.g., AAPL, BTC): ")
 
 # Step 2: Calculate date range (past 7 days)
