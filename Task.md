@@ -1,3 +1,0 @@
-# Description
-
-Build a lightweight Python script that gathers recent public news headlines on one stock or crypto, uses a simple AI or sentiment library to classify each headline as bullish, neutral, or bearish, and then stores the results in a CSV. Produce a short text summary that highlights any patterns (e.g., spikes in bullish or bearish sentiment) over the past 7–10 days. This respects your coding skills, provides tangible insights for your future trades, and remains free of marketing or events you do not plan to attend
